@@ -1,5 +1,7 @@
+package aula02;
+
 public class Tde02Ex02 {
-    /*Exercício 2: Matriz - Tde02Ex02.java
+    /*Exercício 2: Matriz - aula02.Tde02Ex02.java
 
     2. Escreva um programa em Java que declare e inicialize uma matriz de inteiros com 3 linhas e 3 colunas.
     Em seguida, preencha a matriz com valores de 1 a 9 (sequencialmente) e imprima a matriz.*/

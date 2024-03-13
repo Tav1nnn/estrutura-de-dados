@@ -1,6 +1,8 @@
+package aula02;
+
 import java.util.Scanner;
 
-public class Tde03Ex04 {
+public class Tde02Ex04 {
     /*Exercício 4: Escada de String - Tde02Ex04.java
 
     4. Vamos criar uma escada de String! Crie um algoritmo em Java que solicite ao usuário um número.

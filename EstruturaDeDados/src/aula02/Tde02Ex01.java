@@ -1,8 +1,10 @@
+package aula02;
+
 import java.util.Scanner;
 
 public class Tde02Ex01 {
 
-    /*Exercício 1: Array - Tde02Ex01.java
+    /*Exercício 1: Array - aula02.Tde02Ex01.java
     1. Crie um programa em Java que declare e inicialize um array de inteiros com 5 elementos.
     Em seguida, imprima cada elemento do array.*/
 
